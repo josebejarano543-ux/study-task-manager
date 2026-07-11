@@ -6,7 +6,7 @@ Study Task Manager is a browser-based application that helps students organize a
 
 I created this software to strengthen my JavaScript skills and practice building a complete project with HTML, CSS, and JavaScript. The project also helped me practice using native ES6 array functions, recursion, an external JavaScript library, DOM manipulation, local storage, and project documentation.
 
-[Software Demo Video](VIDEO_LINK_GOES_HERE)
+[Software Demo Video](https://youtu.be/8COi74qArPM)
 
 ## Development Environment
 
